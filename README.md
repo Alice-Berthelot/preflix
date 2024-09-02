@@ -47,9 +47,9 @@ _**Preflix** is the second group project I participated in during my training at
 
 <br/>
 
-<a href="https://youtu.be/SAp3s6dXwaM" target="blank">Check out how it looks</a>
+<a href="https://preflix.vercel.app/" target="blank">Check out how it looks</a> 🚀
 
-_Deployment coming soon!_
+🎬 <a href="https://youtu.be/SAp3s6dXwaM" target="blank">Demo</a>
 
 <br/>
 
